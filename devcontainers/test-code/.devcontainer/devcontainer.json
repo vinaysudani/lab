@@ -4,5 +4,4 @@
     "dockerfile": "Dockerfile"
   },
   "postCreateCommand": "scripts/setup"
-
 }
